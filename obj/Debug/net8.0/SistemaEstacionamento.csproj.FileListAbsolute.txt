@@ -1,0 +1,15 @@
+C:\Users\taila\Área de Trabalho\SistemaEstacionamento\bin\Debug\net8.0\SistemaEstacionamento.exe
+C:\Users\taila\Área de Trabalho\SistemaEstacionamento\bin\Debug\net8.0\SistemaEstacionamento.dll
+C:\Users\taila\Área de Trabalho\SistemaEstacionamento\obj\Debug\net8.0\SistemaEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taila\Área de Trabalho\SistemaEstacionamento\obj\Debug\net8.0\SistemaEstacionamento.AssemblyInfoInputs.cache
+C:\Users\taila\Área de Trabalho\SistemaEstacionamento\obj\Debug\net8.0\SistemaEstacionamento.AssemblyInfo.cs
+C:\Users\taila\Área de Trabalho\SistemaEstacionamento\obj\Debug\net8.0\SistemaEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\taila\Área de Trabalho\SistemaEstacionamento\obj\Debug\net8.0\SistemaEstacionamento.dll
+C:\Users\taila\Área de Trabalho\SistemaEstacionamento\obj\Debug\net8.0\refint\SistemaEstacionamento.dll
+C:\Users\taila\Área de Trabalho\SistemaEstacionamento\obj\Debug\net8.0\SistemaEstacionamento.pdb
+C:\Users\taila\Área de Trabalho\SistemaEstacionamento\bin\Debug\net8.0\SistemaEstacionamento.deps.json
+C:\Users\taila\Área de Trabalho\SistemaEstacionamento\bin\Debug\net8.0\SistemaEstacionamento.runtimeconfig.json
+C:\Users\taila\Área de Trabalho\SistemaEstacionamento\bin\Debug\net8.0\SistemaEstacionamento.pdb
+C:\Users\taila\Área de Trabalho\SistemaEstacionamento\obj\Debug\net8.0\SistemaEstacionamento.genruntimeconfig.cache
+C:\Users\taila\Área de Trabalho\SistemaEstacionamento\obj\Debug\net8.0\ref\SistemaEstacionamento.dll
+C:\Users\taila\Área de Trabalho\SistemaEstacionamento\obj\Debug\net8.0\SistemaEstacionamento.csproj.AssemblyReference.cache
